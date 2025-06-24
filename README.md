@@ -3,6 +3,10 @@
 This is a [Model Context Protocol (MCP) server](https://github.com/modelcontextprotocol) that enables scalable mobile automation, development through a platform-agnostic interface, eliminating the need for distinct iOS or Android knowledge. You can run it on emulators, simulators, and physical devices (iOS and Android).
 This server allows Agents and LLMs to interact with native iOS/Android applications and devices through structured accessibility snapshots or coordinate-based taps based on screenshots.
 
+<a href="https://glama.ai/mcp/servers/@EmpathySlainLovers/MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@EmpathySlainLovers/MCP/badge" alt="Mobile Next MCP server" />
+</a>
+
 <h4 align="center">
 <a href="https://github.com/mobile-next/mobile-mcp">
     <img src="https://img.shields.io/github/stars/mobile-next/mobile-mcp" alt="Mobile Next Stars" />
@@ -43,7 +47,6 @@ Check out our detailed roadmap to see upcoming features, improvements, and miles
 
 👉 [Explore the Roadmap](https://github.com/orgs/mobile-next/projects/3)
 
-
 ### Main use cases
 
 How we help to scale mobile automation:
@@ -70,11 +73,9 @@ How we help to scale mobile automation:
     </a>
 </p>
 
-
 ## 📚 Wiki page
 
 More details in our [wiki page](https://github.com/mobile-next/mobile-mcp/wiki) for setup, configuration and debugging related questions.
-
 
 ## Installation and configuration
 
@@ -89,7 +90,6 @@ Setup our MCP with Cline, Cursor, Claude, VS Code, Github Copilot:
     }
   }
 }
-
 ```
 [Cline:](https://docs.cline.bot/mcp/configuring-mcp-servers) To setup Cline, just add the json above to your MCP settings file.
 [More in our wiki](https://github.com/mobile-next/mobile-mcp/wiki/Cline)
@@ -101,7 +101,6 @@ claude mcp add mobile -- npx -y @mobilenext/mobile-mcp@latest
 ```
 
 [Read more in our wiki](https://github.com/mobile-next/mobile-mcp/wiki)! 🚀
-
 
 ### 🛠️ How to Use 📝
 
@@ -127,17 +126,14 @@ contact in your whatsapp list.
 ```
 Find and Download a free "Pomodoro" app that has more than 1k stars.
 Launch the app, register with my email, after registration find how to
-start a pomodoro timer. When the pomodoro timer started, go back to the
-app store and rate the app 5 stars, and leave a comment how useful the
-app is.
+start a pomodoro timer. When the pomodoro timer started, go back to the app store and rate the app 5 stars, and leave a comment how useful the app is.
 ```
 
 **Search in Substack, read, highlight, comment and save an article**
 ```
 Open Substack website, search for "Latest trends in AI automation 2025",
 open the first article, highlight the section titled "Emerging AI trends",
-and save article to reading list for later review, comment a random
-paragraph summary.
+and save article to reading list for later review, comment a random paragraph summary.
 ```
 
 **Reserve a workout class, set timer**
@@ -206,4 +202,3 @@ On iOS, you'll need Xcode and to run the Simulator before using Mobile MCP with 
   <a href = "https://github.com/mobile-next/mobile-mcp/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=mobile-next/mobile-mcp"/>
  </a>
-
